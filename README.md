@@ -11,4 +11,4 @@ I'm an AI engineer interested in building useful AI systems and understanding wh
 
 I'm always interested in thoughtful conversations about AI engineering.
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/prince-sikotra-55043741a/) or [email](mailto:princesikotra.05@gmail.com).
+You can reach me via [LinkedIn](https://www.linkedin.com/in/prince-sikotra/) or [Email](mailto:princesikotra.05@gmail.com).
